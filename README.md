@@ -40,7 +40,7 @@
 
 ---
 
-## 📄 Report & Video
+## 📄 Report 
 - [Report PDF](./SmartBin_Report.pdf)
 
 ---
